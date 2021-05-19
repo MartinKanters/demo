@@ -20,6 +20,7 @@
     <micronaut.version>2.5.3</micronaut.version>
     <exec.mainClass>com.example.Application</exec.mainClass>
     <micronaut.runtime>netty</micronaut.runtime>
+    <lombok.version>1.18.20</lombok.version>
   </properties>
 
   <repositories>
